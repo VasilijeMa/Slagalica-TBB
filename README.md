@@ -1,4 +1,4 @@
-# Slagalica game
+# Slagalica TBB
 Created by students of the Faculty of technical sciences in Novi Sad, Serbia:
 - SV8/2021 Milan Jovkić
 - SV15/2021 Vasilije Marković
